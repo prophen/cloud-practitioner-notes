@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Study Notes for AWS Cloud Practitioner Exam](README.md)
 

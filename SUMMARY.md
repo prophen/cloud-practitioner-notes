@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Study Notes for AWS Cloud Practitioner Exam](README.md)
+* [Practice Test Scores](practice-test-scores.md)
 
 ## Learning Path AWS Certified Cloud Practitioner, 1/e By Richard A. Jones
 
